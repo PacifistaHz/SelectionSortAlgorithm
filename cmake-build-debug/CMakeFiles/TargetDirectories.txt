@@ -1,0 +1,3 @@
+C:/Users/hzgra/CLionProjects/SelectionSortAlgorithm/cmake-build-debug/CMakeFiles/SelectionSortAlgorithm.dir
+C:/Users/hzgra/CLionProjects/SelectionSortAlgorithm/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/hzgra/CLionProjects/SelectionSortAlgorithm/cmake-build-debug/CMakeFiles/rebuild_cache.dir
